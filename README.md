@@ -59,4 +59,6 @@
 </p>
 
 ## ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+<p align="center">
+	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" />
+</p>
