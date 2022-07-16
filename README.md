@@ -18,7 +18,7 @@
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 	 
 <P align="center">
-	<img align="right" alt="Coding" width="36%" src="https://github.com/riponmondalbd/image/blob/main/developer.gif?raw=true">
+	<img align="right" alt="Coding" width="65%" src="https://github.com/riponmondalbd/image/blob/main/developer.gif?raw=true">
 </p>
 
 <br>
