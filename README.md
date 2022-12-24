@@ -37,34 +37,13 @@
 
 <br>
 
-## 📈 Activity Graph
-<p align="center">
-	<img src="https://github-readme-activity-graph.cyclic.app/graph?username=riponmondalbd&bg_color=ffffff&color=4c9e78&line=4c9e78&point=403d3d&area=true&hide_border=true"/>
-</p>
-
-## 💳 Github Profile Summary Card
-<p align="center">
-  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riponmondalbd&theme=vue"/>
-</p>
-
 ## 📟 GitHub Stats
 <p align="center">
-<!-- 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=riponmondalbd&show_icons=true&theme=vue" /> -->
-	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=riponmondalbd&theme=vue" />
-<!-- 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=riponmondalbd&theme=vue" /> -->
-	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=riponmondalbd&theme=vue&utcOffset=8" />
-</p>
-
-## 👨‍💻Most Use Languge
-<!-- <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riponmondalbd&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p> -->
-<p align="center">
-	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riponmondalbd&theme=vue" />
-	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riponmondalbd&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=riponmondalbd&theme=city_light&hide_border=false&include_all_commits=true&count_private=true" />
+	<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riponmondalbd&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 ## ✍️Random Dev Quote
 <p align="center">
-	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" />
+	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 </p>
