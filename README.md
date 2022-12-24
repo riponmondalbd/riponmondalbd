@@ -39,7 +39,7 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=riponmondalbd&theme=minimal"/>
+	<img src="https://github-readme-activity-graph.cyclic.app/graph?username=riponmondalbd&bg_color=ffffff&color=4c9e78&line=4c9e78&point=403d3d&area=true&hide_border=true"/>
 </p>
 
 ## 💳 Github Profile Summary Card
