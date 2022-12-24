@@ -44,18 +44,24 @@
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riponmondalbd&theme=vue"/>
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riponmondalbd&theme=vue"/>
 </p>
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=riponmondalbd&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=riponmondalbd&theme=vue" />
+<!-- 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=riponmondalbd&show_icons=true&theme=vue" /> -->
+	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=riponmondalbd&theme=vue" />
+<!-- 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=riponmondalbd&theme=vue" /> -->
+	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=riponmondalbd&theme=vue&utcOffset=8" />
 </p>
 
 ## 👨‍💻Most Use Languge
-<p align="center">
+<!-- <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riponmondalbd&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p> -->
+<p align="center">
+	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riponmondalbd&theme=vue" />
+	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riponmondalbd&theme=vue" />
 </p>
 
 ## ✍️Random Dev Quote
