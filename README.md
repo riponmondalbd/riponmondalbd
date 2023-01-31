@@ -38,8 +38,8 @@
 <br>
 
 ## 📟 GitHub Stats
-![riponmondalbd's Stats](https://github-readme-stats.vercel.app/api?username=riponmondalbd&theme=default&show_icons=true&hide_border=true&count_private=true)
 ![riponmondalbd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riponmondalbd&theme=default&show_icons=true&hide_border=true&layout=compact)
+![riponmondalbd's Streak](https://github-readme-streak-stats.herokuapp.com/?user=riponmondalbd&theme=default&hide_border=true)
 
 ## ✍️Random Dev Quote
 <p align="center">
