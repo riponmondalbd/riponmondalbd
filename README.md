@@ -38,15 +38,8 @@
 <br>
 
 ## 📟 GitHub Stats
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=riponmondalbd&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riponmondalbd&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+![riponmondalbd's Stats](https://github-readme-stats.vercel.app/api?username=riponmondalbd&theme=default&show_icons=true&hide_border=true&count_private=true)
+![riponmondalbd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riponmondalbd&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 ## ✍️Random Dev Quote
 <p align="center">
