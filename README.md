@@ -38,9 +38,8 @@
 <br>
 
 ## 📟 GitHub Stats
-<p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=riponmondalbd&theme=city_light&hide_border=true&include_all_commits=true&count_private=true" />
-	<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riponmondalbd&theme=city_light&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+![](https://github-readme-stats.vercel.app/api?username=riponmondalbd&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=riponmondalbd&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </p>
 
 ## ✍️Random Dev Quote
