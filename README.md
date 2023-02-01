@@ -1,6 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+</div>  
 
 <p align="center">
 <a href="https://www.linkedin.com/in/riponmondalbd"><img src="https://img.shields.io/badge/inkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
@@ -40,7 +40,6 @@
 ## 📟 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=riponmondalbd&theme=default&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riponmondalbd&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-</p>
 
 ## ✍️Random Dev Quote
 <p align="center">
