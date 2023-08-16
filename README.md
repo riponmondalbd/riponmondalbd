@@ -6,8 +6,11 @@
 <a href="https://www.linkedin.com/in/riponmondalbd"><img src="https://img.shields.io/badge/inkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://www.facebook.com/riponmondalbd"><img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"></a>
 <a href="https://www.instagram.com/riponmondalbd"><img src="https://img.shields.io/badge/Instagram-5851DB?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
-<a href="https://www.twitter.com/riponmondalbd"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
+<a href="https://www.twitter.com/riponmondalr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
 <a href="https://www.behance.net/riponmondalbd"><img src="https://img.shields.io/badge/Behance-053eff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"></a>
+</p>
+<p align="center">
+[![wakatime](https://wakatime.com/badge/user/c147a387-bdfb-4149-bf5f-56eb0432af87.svg)](https://wakatime.com/@c147a387-bdfb-4149-bf5f-56eb0432af87)	
 </p>
 
 <h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
