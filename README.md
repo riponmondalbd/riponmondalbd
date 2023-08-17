@@ -10,6 +10,7 @@
 <a href="https://www.behance.net/riponmondalbd"><img src="https://img.shields.io/badge/Behance-053eff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"></a>
 </p>
 
+
 <h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
@@ -21,6 +22,7 @@
 	<img align="right" alt="Coding" width="36%" src="https://github.com/riponmondalbd/image/blob/main/developer.gif?raw=true">
 </p>
 
+[![wakatime](https://wakatime.com/badge/user/c147a387-bdfb-4149-bf5f-56eb0432af87.svg)](https://wakatime.com/@c147a387-bdfb-4149-bf5f-56eb0432af87)
 <br>
 
 - 🔭 I’m currently working on **Self Development**
@@ -36,6 +38,7 @@
 - ⚡ Fun fact **Code is awesome**
 
 <br>
+
 
 ## 📟 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=riponmondalbd&theme=default&hide_border=true&include_all_commits=true&count_private=true)
