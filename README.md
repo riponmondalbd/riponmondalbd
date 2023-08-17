@@ -9,9 +9,6 @@
 <a href="https://www.twitter.com/riponmondalr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
 <a href="https://www.behance.net/riponmondalbd"><img src="https://img.shields.io/badge/Behance-053eff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"></a>
 </p>
-<!-- <p align="center">
-[![wakatime](https://wakatime.com/badge/user/c147a387-bdfb-4149-bf5f-56eb0432af87.svg)](https://wakatime.com/@c147a387-bdfb-4149-bf5f-56eb0432af87)	
-</p> -->
 
 <h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
