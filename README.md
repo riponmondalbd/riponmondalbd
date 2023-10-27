@@ -44,9 +44,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=riponmondalbd&theme=default&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riponmondalbd&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=riponmondalbd&layout=compact' alt='Languages over last 7 days ' align='center' />
-</div>
 
 ## ✍️Random Dev Quote
 <p align="center">
