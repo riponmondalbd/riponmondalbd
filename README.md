@@ -41,8 +41,10 @@
 
 
 ## 📟 GitHub Stats
-<p>
+<p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=riponmondalbd&show_icons=true&theme=transparent">
+</p>
+<p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=riponmondalbd\&layout=compact">
 </p>
 
