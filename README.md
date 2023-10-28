@@ -40,13 +40,21 @@
 <br>
 
 
-## 📟 GitHub Stats
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=riponmondalbd&show_icons=true&theme=transparent">
-</p>
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=riponmondalbd\&layout=compact">
-</p>
+## 📈 Stats:
+<div align='center'>
+    <img src='https://github-readme-stats.vercel.app/api?username=riponmondalbd&show_icons=true&count_private=true&hide_border=true' alt='Github stats' align='center' />
+</div>
+<br />
+
+<div align='center'>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=riponmondalbd' alt='Github stats' align='center' />
+</div>
+<br />
+
+<div align='center'>
+    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=riponmondalbd&layout=compact' alt='Languages over last 7 days ' align='center' />
+</div>
+<br />
 
 ## ✍️Random Dev Quote
 <p align="center">
