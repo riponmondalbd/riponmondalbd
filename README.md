@@ -47,6 +47,10 @@
 <br />
 
 <div align='center'>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=riponmondalbd&layout=donut-vertical' alt='Github stats' align='center' />
+</div>
+<br />
+<div align='center'>
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=riponmondalbd' alt='Github stats' align='center' />
 </div>
 <br />
