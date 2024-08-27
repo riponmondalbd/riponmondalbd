@@ -27,7 +27,7 @@
 
 - 🔭 I’m currently working on **Self Development**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend Technology**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/riponmondalbd?tab=repositories" target="blank">Click Hare</a>
 
