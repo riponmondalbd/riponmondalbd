@@ -1,4 +1,4 @@
-<div align="center">
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/358b4915-2a15-43be-bcab-bd47e3581bbd" /><div align="center">
 <img src="https://raw.githubusercontent.com/riponmondalbd/image/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif" align="center" style="width: 50%" />
 </div>  
 
@@ -40,22 +40,18 @@
 
 <br>
 
-
 ## 📈 Stats:
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=riponmondalbd" />
-		<br> <br>
-      <img src="https://github-contributor-stats.vercel.app/api?username=riponmondalbd&limit=5&theme=default&combine_all_yearly_contributions=true" />
-    </td>
-    <td align="center">
-      <a href="https://wakatime.com/share/@riponmondalbd/154225f9-002b-4b4b-8691-c9489d086d97.svg">
-        <img src="https://wakatime.com/share/@riponmondalbd/154225f9-002b-4b4b-8691-c9489d086d97.svg" width="650" />
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=riponmondalbd" />
+	 <img src="https://github-contributor-stats.vercel.app/api?username=riponmondalbd&limit=3&theme=default&combine_all_yearly_contributions=true" />
+</div>
+
+## ⌨️ Codding Activity
+<div align="center">
+  <a href="https://wakatime.com/share/@riponmondalbd/cbedd862-6351-48d5-afd8-97cd90374840.svg">
+        <img src="https://wakatime.com/share/@riponmondalbd/154225f9-002b-4b4b-8691-c9489d086d97.svg" width="100%" />
       </a>
-    </td>
-  </tr>
-</table>
+</div>
 
 <div align="center">
   <a href="https://wakatime.com/share/@riponmondalbd/cbedd862-6351-48d5-afd8-97cd90374840.svg">
