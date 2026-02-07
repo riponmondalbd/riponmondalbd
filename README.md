@@ -50,7 +50,7 @@
 
 ## ⌨️ Codding Activity
 <div align="center">
-  <a href="https://wakatime.com/share/@riponmondalbd/cbedd862-6351-48d5-afd8-97cd90374840.svg">
+  <a href="https://wakatime.com/share/@riponmondalbd/154225f9-002b-4b4b-8691-c9489d086d97.svg">
     <img src="https://wakatime.com/share/@riponmondalbd/154225f9-002b-4b4b-8691-c9489d086d97.svg" width="100%" />
   </a>
 </div>
