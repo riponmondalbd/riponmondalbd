@@ -18,13 +18,16 @@
          width="45" /> I'm Ripon Mondal</h1>
 	 
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
+
+<div align="center">
+	<a href="https://wakatime.com/@c147a387-bdfb-4149-bf5f-56eb0432af87">
+    	<img src="https://wakatime.com/badge/user/c147a387-bdfb-4149-bf5f-56eb0432af87.svg" />
+	</a>
+</div>
 	 
 <P align="center">
 	<img align="right" alt="Coding" width="36%" src="https://github.com/riponmondalbd/image/blob/main/developer.gif?raw=true">
 </p>
-
-[![wakatime](https://wakatime.com/badge/user/c147a387-bdfb-4149-bf5f-56eb0432af87.svg)](https://wakatime.com/@c147a387-bdfb-4149-bf5f-56eb0432af87)
-<br>
 
 - 🔭 I’m currently working on **Self Development**
 
@@ -48,14 +51,14 @@
 ## ⌨️ Codding Activity
 <div align="center">
   <a href="https://wakatime.com/share/@riponmondalbd/cbedd862-6351-48d5-afd8-97cd90374840.svg">
-        <img src="https://wakatime.com/share/@riponmondalbd/154225f9-002b-4b4b-8691-c9489d086d97.svg" width="100%" />
-      </a>
+    <img src="https://wakatime.com/share/@riponmondalbd/154225f9-002b-4b4b-8691-c9489d086d97.svg" width="100%" />
+  </a>
 </div>
 
 <div align="center">
   <a href="https://wakatime.com/share/@riponmondalbd/cbedd862-6351-48d5-afd8-97cd90374840.svg">
-        <img src="https://wakatime.com/share/@riponmondalbd/cbedd862-6351-48d5-afd8-97cd90374840.svg" width="100%" />
-      </a>
+    <img src="https://wakatime.com/share/@riponmondalbd/cbedd862-6351-48d5-afd8-97cd90374840.svg" width="100%" />
+</a>
 </div>
 
 ## ✍️Random Dev Quote
