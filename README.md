@@ -48,17 +48,20 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=riponmondalbd" />
 </div>
 
-## ⌨️ Codding Activity
+## ⌨️ Activity
 <div align="center">
-  <a href="https://wakatime.com/share/@riponmondalbd/154225f9-002b-4b4b-8691-c9489d086d97.svg">
-    <img src="https://wakatime.com/share/@riponmondalbd/154225f9-002b-4b4b-8691-c9489d086d97.svg" width="100%" />
-  </a>
+	<h3>Languages over Last 30 Days</h3>
+	<a href="https://wakatime.com/share/@riponmondalbd/90b55ef3-5906-4b77-af51-6bd9d34be32c.svg">
+		<img src="https://wakatime.com/share/@riponmondalbd/90b55ef3-5906-4b77-af51-6bd9d34be32c.svg" width="100%" />
+	</a>
 </div>
 
+##
 <div align="center">
-  <a href="https://wakatime.com/share/@riponmondalbd/cbedd862-6351-48d5-afd8-97cd90374840.svg">
-    <img src="https://wakatime.com/share/@riponmondalbd/cbedd862-6351-48d5-afd8-97cd90374840.svg" width="100%" />
-</a>
+	<h3>Coding Activity over Last 30 Days</h3>
+	<a href="https://wakatime.com/share/@riponmondalbd/23d5afeb-8973-4b14-9694-785756fd6172.svg">
+		<img src="https://wakatime.com/share/@riponmondalbd/23d5afeb-8973-4b14-9694-785756fd6172.svg" width="100%" />
+	</a>
 </div>
 
 ## ✍️Random Dev Quote
@@ -66,8 +69,7 @@
   <img src="https://github-readme-quotes-bay.vercel.app/quote?animation=grow_out_in" width="100%" />
 </div>
 
-
 ##
 <div align="center">
-<img src = "https://raw.githubusercontent.com/riponmondalbd/image/main/scroll-down.gif" align = "center" style = "width: 35%" />
+<img src="https://raw.githubusercontent.com/riponmondalbd/image/main/scroll-down.gif" align = "center" style = "width: 35%" />
 </div>  
