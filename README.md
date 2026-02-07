@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/358b4915-2a15-43be-bcab-bd47e3581bbd" /><div align="center">
+<div align="center">
 <img src="https://raw.githubusercontent.com/riponmondalbd/image/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif" align="center" style="width: 50%" />
 </div>  
 
