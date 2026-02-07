@@ -51,7 +51,7 @@
     <img src='https://github-readme-stats.vercel.app/api/wakatime?username=riponmondalbd&layout=compact' alt='Languages over last 7 days ' align='center' />
 </div> -->
 
-[![wakatime](https://wakatime.com/share/@riponmondalbd/61a49b82-3d09-455a-8e77-c3b15082f533.svg)](https://wakatime.com/@61a49b82-3d09-455a-8e77-c3b15082f533.svg)
+[![wakatime](https://wakatime.com/share/@riponmondalbd/61a49b82-3d09-455a-8e77-c3b15082f533.svg)](https://wakatime.com/@riponmondalbd)
 <br />
 
 ## ✍️Random Dev Quote
