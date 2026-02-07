@@ -66,7 +66,7 @@
 
 ## ✍️Random Dev Quote
 <div align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?animation=grow_out_in" width="100%" />
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=grow_out_in" width="100%" />
 </div>
 
 ##
