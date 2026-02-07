@@ -43,7 +43,6 @@
 ## 📈 Stats:
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=riponmondalbd" />
-	 <img src="https://github-contributor-stats.vercel.app/api?username=riponmondalbd&limit=3&theme=default&combine_all_yearly_contributions=true" />
 </div>
 
 ## ⌨️ Codding Activity
