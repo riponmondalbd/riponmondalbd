@@ -52,10 +52,10 @@
 </div> -->
 
 <div align="center">
-  <img src="https://wakatime.com/share/@riponmondalbd/9666b65b-4010-40f8-a0b7-fb5c8e8ff5dc.svg" />
+  <a href="https://wakatime.com/share/@riponmondalbd/9666b65b-4010-40f8-a0b7-fb5c8e8ff5dc.svg">
+    <img src="https://wakatime.com/share/@riponmondalbd/9666b65b-4010-40f8-a0b7-fb5c8e8ff5dc.svg" />
+  </a>
 </div>
-
-
 <br />
 
 ## ✍️Random Dev Quote
